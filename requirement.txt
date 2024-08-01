@@ -1,0 +1,6 @@
+tensorflow==2.12.0
+streamlit
+tensorflow-cpu
+opencv-python-headless
+numpy
+pandas
