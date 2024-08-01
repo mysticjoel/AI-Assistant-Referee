@@ -1,5 +1,6 @@
 streamlit
 numpy
-tensorflow-cpu
+tensorflow[and-cuda]
 opencv-python-headless
-tensorflow==2.10
+tensorflow-intel-2.16.1
+keras-3.4.1
