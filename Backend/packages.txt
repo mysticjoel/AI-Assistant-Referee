@@ -1,2 +1,1 @@
-tensorflow
-tensorflow-cpu
+pip3 install tensorflow
