@@ -21,7 +21,6 @@ warnings.filterwarnings("ignore")
 
 import tensorflow as tf
 from tensorflow import keras
-import cv2
 import os
 import numpy as np
 
